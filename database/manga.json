@@ -1,0 +1,43 @@
+{
+  "_version": "manga.json V1.0 Rev 0",
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "The Dragonslayer's Regression is Peerless / 용살자의 역행은 독보적이다",
+  "status": "Ongoing",
+  "author": "Swimming Woo",
+  "artist": "Studio Maru",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2023,
+  "rating": 4.8,
+  "synopsis": "Slayer of the Red Dragon, Siegfried, returns to the past after a tragic betrayal. Armed with his future knowledge and peerless talent, he begins his journey to rewrite history and slay the dragons once more.",
+  "cover_url": "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": "1",
+      "chapter_title": "The End and The Beginning",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-1/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-1/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-1/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-1/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": "2",
+      "chapter_title": "The Regressor's Awakening",
+      "images": [
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-2/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-2/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-2/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic/assets/main/manga/a-dragonslayers-peerless-regression/ch-2/004.jpg"
+      ]
+    }
+  ]
+}
